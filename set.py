@@ -1,0 +1,12 @@
+set1={1,2,"Alli"}
+set2={1,1,4,6,3,7,7}
+print(set2)
+set3=set()
+set2.add(8)
+print(set2)
+print(len(set2))
+#set1.remove(1)
+set2.clear()
+#print(set1.pop())
+set1.add((2,9,3))
+print(set1)
